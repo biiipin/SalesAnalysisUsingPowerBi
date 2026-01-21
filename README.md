@@ -1,3 +1,1 @@
-Dataset Source: [Rishabh Mishra, Youtuber, dataset]
-
-This dataset is for learning purposes only.
+Dataset Source is from youtube.
